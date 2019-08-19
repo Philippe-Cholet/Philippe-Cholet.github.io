@@ -1,0 +1,4 @@
+# Don't share some folders: drafts, other files & trash.
+draft-contents
+others
+trash
